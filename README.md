@@ -1,5 +1,8 @@
 # Welcome to the kodular  Server
-![standard_3|468x60](upload://2TNvirsQs2Hk5PEnSoC8LwJXAqy.gif)
+
+
+![standard_3](https://github.com/RiadDeveloper/Follow-the-rules/assets/147613731/e281f9ca-90e6-49c7-854f-050b7089ba51)
+
 
 
 
@@ -12,7 +15,8 @@
 **We're excited to have you here, and we can't wait to get to know you better. Enjoy your stay! 🎉**
 
 
-![standard_4|468x60](upload://nug87WT6McQtidloeOaDDtwvn9V.gif)
+![standard_4](https://github.com/RiadDeveloper/Follow-the-rules/assets/147613731/8631f4ff-c688-4c46-92d6-99759a31b06b)
+
 
 
 
