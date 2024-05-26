@@ -40,9 +40,10 @@
 
 **🤔 10. Rules are subject to common sense.**
 
-**🤖 11. **You can't post documentation and replay using any AI bot.**
+**🤖 11. You can't post documentation and replay using any AI bot.**
 
-**💓 12. **Learn to respect everyone, don't abuse or misbehave.**
+**💓 12. Learn to respect everyone, don't abuse or misbehave.**
 
-**🗣️ 13. **If a moderator or staff asks you something, you don't lie because you remember that whatever happens in the community, the moderator or staff handles it.**
+**🗣️ 13. If a moderator or staff asks you something, you don't lie because you remember that whatever happens in the community, the moderator or staff handles it.**
+
 
